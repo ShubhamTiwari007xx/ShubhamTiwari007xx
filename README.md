@@ -35,6 +35,28 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currentl
 
 ---
 
+## 📊 GitHub Stats
+
+### Dark Theme
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=dark&show_icons=true)
+
+### Radical Theme
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=radical&show_icons=true)
+
+### Merko Theme
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=merko&show_icons=true)
+
+### Gruvbox Theme
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=gruvbox&show_icons=true)
+
+### Tokyonight Theme
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=tokyonight&show_icons=true)
+
+### Dracula Theme
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=dracula&show_icons=true)
+
+---
+
 ## 🎓 Currently Learning
 
 - 📐 System Design & Architecture
