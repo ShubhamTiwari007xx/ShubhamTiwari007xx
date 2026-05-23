@@ -39,17 +39,22 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currentl
 
 <div align="center">
 
-### Overall Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats - Dark" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&show_icons=true" />
+</picture>
 
 ### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamTiwari007xx&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
-
----
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&show_icons=true&theme=radical)
 
 ---
 
@@ -85,7 +90,5 @@ Check out my repositories to explore some interesting projects I'm working on:
 I believe great code is not just about functionality—it's about building systems that scale, perform, and tell a story of thoughtful architecture! 🏗️
 
 ---
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&show_icons=true&bg_color=00000000)
 
 **Happy Coding!** 🚀
