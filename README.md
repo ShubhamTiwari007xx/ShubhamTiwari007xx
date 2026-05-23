@@ -49,26 +49,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currentl
 
 ---
 
-## ⭐ Theme Gallery
-
-<div align="center">
-
-### Radical Theme
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats - Radical" />
-
-### Merko Theme
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=merko&show_icons=true&hide_border=true" alt="GitHub Stats - Merko" />
-
-### Gruvbox Theme
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=gruvbox&show_icons=true&hide_border=true" alt="GitHub Stats - Gruvbox" />
-
-### Tokyonight Theme
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats - Tokyonight" />
-
-### Dracula Theme
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats - Dracula" />
-
-</div>
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&show_icons=true&theme=radical)
 
 ---
 
