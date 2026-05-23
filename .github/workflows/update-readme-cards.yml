@@ -1,0 +1,7 @@
+git clone https://github.com/ShubhamTiwari007xx/ShubhamTiwari007xx.git
+cd ShubhamTiwari007xx
+mkdir -p .github/workflows
+# Create the file and add the content
+git add .github/workflows/update-readme-cards.yml
+git commit -m "Add GitHub Actions workflow to update README cards"
+git push origin main
