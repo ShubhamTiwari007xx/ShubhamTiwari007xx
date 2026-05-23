@@ -105,4 +105,6 @@ I believe great code is not just about functionality—it's about building syste
 
 ---
 
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&show_icons=true&bg_color=00000000)
+
 **Happy Coding!** 🚀
