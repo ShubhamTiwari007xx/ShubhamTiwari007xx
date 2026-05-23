@@ -37,23 +37,27 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currentl
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ### Dark Theme
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=dark&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats - Dark" />
 
 ### Radical Theme
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=radical&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats - Radical" />
 
 ### Merko Theme
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=merko&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=merko&show_icons=true&hide_border=true" alt="GitHub Stats - Merko" />
 
 ### Gruvbox Theme
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=gruvbox&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=gruvbox&show_icons=true&hide_border=true" alt="GitHub Stats - Gruvbox" />
 
 ### Tokyonight Theme
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=tokyonight&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats - Tokyonight" />
 
 ### Dracula Theme
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=dracula&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats - Dracula" />
+
+</div>
 
 ---
 
