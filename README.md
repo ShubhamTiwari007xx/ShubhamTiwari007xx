@@ -35,12 +35,23 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currentl
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-### Dark Theme
+### Overall Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats - Dark" />
+
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamTiwari007xx&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+## ⭐ Theme Gallery
+
+<div align="center">
 
 ### Radical Theme
 <img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats - Radical" />
@@ -67,13 +78,24 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currentl
 - 🔄 Distributed Systems
 - 🏗️ Scalable Backend Patterns
 - ⚡ Performance Optimization
+- 🔐 Microservices Architecture
+
+---
+
+## 📁 Featured Projects
+
+Check out my repositories to explore some interesting projects I'm working on:
+- 🔗 Visit my [repositories](https://github.com/ShubhamTiwari007xx?tab=repositories) to see my latest work
+- 💡 Feel free to explore and contribute!
 
 ---
 
 ## 📫 Get in Touch
 
 - 💬 Feel free to reach out for collaborations or tech discussions
+- 📧 Open to exciting backend and system design opportunities
 - 🔗 Check out my repositories to see what I'm building
+- 🤝 Let's connect and build something amazing together!
 
 ---
 
