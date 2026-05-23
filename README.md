@@ -1,72 +1,24 @@
-# Hey there! 👋 I'm Shubham Tiwari
+# 💫 About Me:
+💼 Currently working on backend systems and architecting scalable solutions<br>🌱 Learning advanced system design patterns and distributed systems<br>🎯 Focused on building robust, maintainable, and efficient backend services<br>💭 Open to collaborating on innovative backend projects<br>📚 Always exploring best practices in software architecture
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currently diving deep into **Backend Development** and **System Architecture & Design**.
 
----
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@dark knight) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwarishubh723@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ShubhamTiwari007xx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ShubhamTiwari007xx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShubhamTiwari007xx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 💼 Currently working on backend systems and architecting scalable solutions
-- 🌱 Learning advanced system design patterns and distributed systems
-- 🎯 Focused on building robust, maintainable, and efficient backend services
-- 💭 Open to collaborating on innovative backend projects
-- 📚 Always exploring best practices in software architecture
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShubhamTiwari007xx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## 💻 Tech Stack
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
----
+[![](https://komarev.com/ghpvc/?username=ShubhamTiwari007xx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎓 Currently Learning
-
-- 📐 System Design & Architecture
-- 🔄 Distributed Systems
-- 🏗️ Scalable Backend Patterns
-- ⚡ Performance Optimization
-- 🔐 Microservices Architecture
-
----
-
-## 📁 Featured Projects
-
-Check out my repositories to explore some interesting projects I'm working on:
-- 🔗 Visit my [repositories](https://github.com/ShubhamTiwari007xx?tab=repositories) to see my latest work
-- 💡 Feel free to explore and contribute!
-
----
-
-## 📫 Get in Touch
-
-- 💬 Feel free to reach out for collaborations or tech discussions
-- 📧 Open to exciting backend and system design opportunities
-- 🔗 Check out my repositories to see what I'm building
-- 🤝 Let's connect and build something amazing together!
-
----
-
-## ⚡ Fun Fact
-
-I believe great code is not just about functionality—it's about building systems that scale, perform, and tell a story of thoughtful architecture! 🏗️
-
----
-
-**Happy Coding!** 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
