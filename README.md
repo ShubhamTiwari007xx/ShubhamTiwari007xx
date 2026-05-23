@@ -34,28 +34,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** currentl
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamTiwari007xx&show_icons=true" />
-</picture>
-
-### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamTiwari007xx&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-
-</div>
-
 ---
 
 ## 🎓 Currently Learning
